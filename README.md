@@ -3,12 +3,12 @@
 ##### Regression: Predicts continuous outcomes (e.g., Linear Regression, Ridge, Lasso).
 #####  Classification: Predicts categorical labels (e.g., Logistic Regression, SVM, Decision Trees, Neural Networks).
 ## B. Unsupervised Learning
-Clustering: Groups data (e.g., K-Means, DBSCAN, Hierarchical Clustering).
-Dimensionality Reduction: Reduces feature space (e.g., PCA, t-SNE, UMAP).
+##### Clustering: Groups data (e.g., K-Means, DBSCAN, Hierarchical Clustering).
+##### Dimensionality Reduction: Reduces feature space (e.g., PCA, t-SNE, UMAP).
 ## C. Semi-Supervised Learning
-Combines labeled and unlabeled data to improve accuracy.
+##### Combines labeled and unlabeled data to improve accuracy.
 ## D. Reinforcement Learning
-Trains models to make decisions in dynamic environments (e.g., Q-Learning, Deep Q-Networks).
+##### Trains models to make decisions in dynamic environments (e.g., Q-Learning, Deep Q-Networks).
 ## E. Transfer Learning
 Leverages pre-trained models to fine-tune for specific tasks (e.g., BERT, ResNet).
 # 2. Architectures for Neural Networks
@@ -25,12 +25,17 @@ Used for unsupervised tasks like anomaly detection or feature extraction.
 ## F. GANs (Generative Adversarial Networks)
 Generates new data instances (e.g., image synthesis).
 # 3. Preprocessing Techniques
-## Data Cleaning: Handle missing values, outliers, and noise.
-## Normalization/Standardization: Scale data for optimal model performance.
-## Feature Engineering: Create meaningful features from raw data.
-## Data Augmentation: Increase dataset size and variability (e.g., image flips, rotations).
+## Data Cleaning: 
+Handle missing values, outliers, and noise.
+## Normalization/Standardization: 
+Scale data for optimal model performance.
+## Feature Engineering:
+Create meaningful features from raw data.
+## Data Augmentation: 
+Increase dataset size and variability (e.g., image flips, rotations).
 # 4. Optimization Techniques
-## Learning Rate Schedules: Adjust learning rates during training (e.g., exponential decay).
+## Learning Rate Schedules: 
+Adjust learning rates during training (e.g., exponential decay).
 ## Gradient Descent Variants:
 SGD
 Adam
