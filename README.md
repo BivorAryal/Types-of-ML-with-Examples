@@ -1,7 +1,7 @@
 # 1. Types of ML Models
 ## A. Supervised Learning
-### Regression: Predicts continuous outcomes (e.g., Linear Regression, Ridge, Lasso).
-Classification: Predicts categorical labels (e.g., Logistic Regression, SVM, Decision Trees, Neural Networks).
+##### Regression: Predicts continuous outcomes (e.g., Linear Regression, Ridge, Lasso).
+#####  Classification: Predicts categorical labels (e.g., Logistic Regression, SVM, Decision Trees, Neural Networks).
 B. Unsupervised Learning
 Clustering: Groups data (e.g., K-Means, DBSCAN, Hierarchical Clustering).
 Dimensionality Reduction: Reduces feature space (e.g., PCA, t-SNE, UMAP).
